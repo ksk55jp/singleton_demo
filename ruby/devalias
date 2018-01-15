@@ -1,0 +1,7 @@
+alias a=alias
+alias h=history
+alias c=clear
+alias rad=". ./devalias"
+alias vid="vim devalias"
+alias run="c;ruby Main.rb"
+

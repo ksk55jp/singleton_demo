@@ -1,0 +1,7 @@
+alias run="c;java Main"
+alias comp="javac *.java"
+alias vid="vim devalias"
+alias rad=". ./devalias"
+alias c=clear
+alias a=alias
+alias h=history
